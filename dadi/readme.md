@@ -20,9 +20,7 @@ Ricordate: il primo push dovrà essere un file README.md contenente la risoluzio
 
 -- Creo pulsante "lancia dado" in html
 -- If click pulsante:
---- Genero array con numeri da 1 a 6 
---- Genero scelta numero casuale pc di array
---- Genero scelta numero casuale utente di array
+--- Genero scelta numero casuale pc
+--- Genero scelta numero casuale utente
 --- Creo IF per vittoria/pareggio altrimenti sconfitta e stampo risultato
 
-TUTTO IN CONSOLE
