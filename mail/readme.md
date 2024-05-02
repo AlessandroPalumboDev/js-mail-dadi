@@ -21,6 +21,6 @@ Ricordate: il primo push dovrà essere un file README.md contenente la risoluzio
 
 
 --Creo un prompt creando una variabile che chieda indirizzo email utente
---Creo un array di email fittizie con un ciclo per pigrizia
+--Creo un array di 9 email fittizie con un ciclo per pigrizia
 --Creo condizioni per l'accesso e stampo gli eventuali messaggi
 TUTTO IN CONSOLE
