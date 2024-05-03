@@ -27,4 +27,3 @@ Ricordate: il primo push dovrà essere un file README.md contenente la risoluzio
 
 
 
-pinco4pallino@mail.com
